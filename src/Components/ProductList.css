@@ -1,0 +1,17 @@
+.head{
+    top: 0;
+    /* padding: 100px; */
+    text-align: center;
+    justify-content: center;
+    background-image: var(--bs-gradient);
+    color: white;
+}
+img{
+    margin-top: 50px;
+    width: 250px;
+    height: 250px;
+}
+.show{
+    border: 0px solid black;
+    padding-bottom: 50px;
+}

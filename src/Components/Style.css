@@ -1,0 +1,47 @@
+.cart{
+    border: 1px solid black;
+    margin: 100px;
+    text-align: center;
+}
+h1{
+    padding-top: 10px;
+}
+.topnav{
+    padding-left: 100px !important;
+    padding-top: 25px !important;
+    padding-bottom: 25px !important;
+}
+.toptext{
+    padding-left: 400px !important;
+}
+.toptext Link {
+    text-align: center;
+    text-decoration: none;
+}
+.nav-link:hover {
+    color: rgb(43, 161, 161) !important;
+  }
+.bottom {
+    padding: 50px;
+    background-color: #2c3e50 !important;
+    color: white;
+}
+.icon{
+    border: 1px solid white !important;
+    padding: 15px !important;
+}
+.ihover i:hover {
+    color: #2c3e50 !important;
+    background-color: white;
+}
+button:hover {
+    background-color: #555;
+    color: white;
+  }
+.contact {
+    padding: 80px;
+}
+
+.form {
+    padding-bottom: 30px;
+}
